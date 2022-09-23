@@ -1,3 +1,5 @@
+theme: Slate
+
 # Saksham_Portfolio
 Portfolio
 
