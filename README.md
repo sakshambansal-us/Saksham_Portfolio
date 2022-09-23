@@ -1,7 +1,7 @@
 # Saksham_Portfolio
 Portfolio
 
-**[Project 1: Industry Capstone Program, School of Business]()**
+**Project 1: Industry Capstone Program, School of Business**
 •	Collaborated with fellow members of the consulting team, with faculty support, to analyze the NPS survey tool and recommend appropriate actions to eMazzanti Technologies
 •	Implemented the NPS survey tool, and analyzed results to provide insight and next steps for eMazzanti Technologies
 
