@@ -26,11 +26,11 @@ Portfolio
 # [Project 6: Bulldozer Price Regression](https://github.com/sakshambansal-us/Bulldozer-price-regression)
 •	Predicting the sale price of bulldozer using machine learning
 
-![](https://github.com/sakshambansal-us/Saksham_Portfolio/blob/main/Images/download%20(3).png)
+![](/Images/download%20(3).png)
 
 # [Project 7: Heart Disease Classification](https://github.com/sakshambansal-us/Heart-Disease-Classification)
 •	Predicting heart disease using machine learning
 
-![](https://github.com/sakshambansal-us/Saksham_Portfolio/blob/main/Images/download%20(2).png)
+![](/Images/download%20(2).png)
 
-![](https://github.com/sakshambansal-us/Saksham_Portfolio/blob/main/Images/download.png)
+![](/Images/download.png)
